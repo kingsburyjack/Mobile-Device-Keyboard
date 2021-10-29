@@ -6,7 +6,7 @@ A trie is a tree-base structure that runs in O(M) time where M is the maximum st
 I decided to leave in special characters because it allows us to autocomplete things like websites (using periods), numbers, and punctuation.
 
 
-To test, input the sentence to be trained with in the driver portion of the code in quotation marks and the key to look for:
+To test, input the sentence to be trained within the driver portion of the code in quotation marks and the key to look for:
 
 sentence = "INPUT SENTENCE HERE"
 
