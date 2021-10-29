@@ -9,5 +9,7 @@ I decided to leave in special characters because it allows us to autocomplete th
 To test, input the sentence to be trained with in the driver portion of the code in quotation marks and the key to look for:
 
 sentence = "INPUT SENTENCE HERE"
+
 keys = sentence.split()
+
 key = "INPUT KEY TO SEARCH HERE"
